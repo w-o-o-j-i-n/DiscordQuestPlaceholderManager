@@ -22,6 +22,7 @@ Discord Game Activity [ image ]
 
 <img width="428" height="136" alt="image" src="https://github.com/user-attachments/assets/4858f2a3-5650-477a-9705-43d5e6751ccd" />
 
-[edit] - if chosen executeable path didn't work (not detected by discord)  try other paths listed 
 
 Games list source - [ https://discord.com/api/v10/applications/detectable ] 
+
+[edit] - if chosen executeable path didn't work (not detected by discord)  try other paths listed 
