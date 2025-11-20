@@ -15,6 +15,7 @@ Compatibility Fixes: Some games require a subfolder with the executable inside f
 and this app handles that automatically.
 
 Quest Game Manager [ image ]
+
 <img width="925" height="631" alt="image" src="https://github.com/user-attachments/assets/bc6004c2-87df-402a-861a-c5c2e77979e2" />
 
 Discord Game Activity [ image ]
